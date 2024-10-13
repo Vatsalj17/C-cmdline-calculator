@@ -13,6 +13,7 @@ I plan to add the following features:
 - **Handling Negative Numbers**: Allow negative numbers in input.
 - **Operator Precedence**: Perform operations with correct precedence (e.g., `*` and `/` before `+` and `-`).
 - **Floating Point Numbers**: Support decimal numbers in calculations.
+
 *Feel free to open an issue if you'd like to contribute or suggest improvements.*
 
 ## Example
